@@ -98,3 +98,13 @@ span
 p{
     margin-left: 200px;
 }
+
+small
+{
+    width: 50%;
+    border-radius: 10px solid;
+    border-color: black;
+    padding: 10px;
+    margin-left: 500px;
+    background-color: #B9F3E4;
+}
